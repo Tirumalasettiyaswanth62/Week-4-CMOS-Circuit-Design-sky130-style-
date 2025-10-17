@@ -44,4 +44,8 @@ Based on the provided document, here is an overview of the principles of Thresho
 
 - At this point, the transistor enters the saturation region. Further increases in Vds do not significantly increase the drain current.
 
-- The drain current (Id) in this region is primarily controlled by Vgs 
+- The drain current (Id) in this region is primarily controlled by Vgs
+# Lab of the Day1:
+
+## -Vdd branch plot 
+<img width="1281" height="837" alt="day1" src="https://github.com/user-attachments/assets/f22b2639-1cb5-4953-838e-435ea56a5c37" />
