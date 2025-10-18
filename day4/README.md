@@ -25,4 +25,5 @@ Any input signal that falls into this range will produce an "indefinite logic le
 
 
 ## Conclusion:
+
 The noise margins, NM_h and NM_l, are critical metrics for determining the robustness of a CMOS inverter against voltage noise18. They quantify the "buffer" zones a logic signal has before it risks being misinterpreted.For reliable operation, a logic '0' signal must remain below Vil and a logic '1' signal must remain above Vih. If noise causes a signal to enter the "Undefined Region" (between V_il and Vih), the inverter's output becomes unpredictable. Therefore, designing inverters with larger noise margins is essential for ensuring the stability and reliability of digital circuits.
